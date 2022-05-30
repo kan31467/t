@@ -3,7 +3,7 @@
     {
       "name": "douyu",
       "pic": "https://rpic.douyucdn.cn/asrpic/220428/7298973_0050.png/dy2",
-      "webUrl": "http://127.0.0.1:8080/freed/tv/douyu.json",
+      "webUrl": "https://github.com/YuanHsing/freed/raw/master/tv/douyu.json",
       "type": "gitJson",
       "subTitle": "",
       "click": true,
@@ -19,7 +19,7 @@
     {
       "name": "Bilibili",
       "pic": "http://i0.hdslb.com/bfs/live/new_room_cover/5df1e7f98bd2803a20dc0b7b5c5724d363441a6d.jpg",
-      "webUrl": "http://127.0.0.1:8080/freed/tv/Bilibili.json",
+      "webUrl": "https://github.com/YuanHsing/freed/raw/master/tv/Bilibili.json",
       "type": "gitJson",
       "subTitle": "",
       "click": true,
@@ -35,7 +35,7 @@
     {
       "name": "Huya",
       "pic": "https://huyaimg.msstatic.com/avatar/1029/18/5d04dbcf6ab709f749023603de2b86_180_135.jpg",
-      "webUrl": "http://127.0.0.1:8080/freed/tv/huya.json",
+      "webUrl": "https://github.com/YuanHsing/freed/raw/master/tv/huya.json",
       "type": "gitJson",
       "subTitle": "",
       "click": true,
